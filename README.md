@@ -1,1 +1,1 @@
-# credit-car-fraud-detection-using-different-machine-learning-algorithms
+# credit card fraud detection using different machine learning algorithms
